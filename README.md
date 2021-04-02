@@ -1,7 +1,7 @@
 <center>
-
-# ¡Hola! 👋 Soy Fabián Cruz.
+<h1>¡Hola! 👋 Soy Fabián Cruz. </h1>
 </center>
+
 ![Fabián Cruz](http://fabiancruz.x10.mx/static/readme-perfil/banner.png)
 
 <!--
