@@ -1,4 +1,4 @@
-## Hello there 👋 I'm Fabián Cruz.
+<p align="center" style="font-size:5vw;">Hello there 👋 I'm Fabián Cruz. </p>
 
 ![Fabián Cruz](http://fabiancruz.x10.mx/static/readme-perfil/banner.png)
 
