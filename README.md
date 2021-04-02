@@ -71,10 +71,16 @@ Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></stro
 <p align=justify>A su vez estoy aprendiendo otras tecnologías. la cuestión es siempre aprender y mejorar.</p>
 
 
+<div align= center><h2><i>
+
+
 ```diff
 @@ Keeping the world connected.@@
 ```
 
+</i>
+</h2>
+</div>
 
 <!-- ![Vistas del perfil](https://gpvc.arturio.dev/fabiancruz-0) -->
 
