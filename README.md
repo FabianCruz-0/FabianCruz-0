@@ -72,7 +72,7 @@ Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></stro
 
 
 <div align= center><h2><i>
-<p style="color:Purple;">
+<p style="color:Purple !important;">
 KEEPING THE WORLD CONNECTED.
 </p>
 </i>
