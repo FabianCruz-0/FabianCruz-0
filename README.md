@@ -14,7 +14,7 @@ Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></stro
 <table width="100%">
 <tr>
 <td  valign="top">
-<p align=center><code><strong>LEJGUAJES DE PROGRAMACIÓN:</strong></code></p>
+<p align=center><code><strong>LENGUAJES DE PROGRAMACIÓN:</strong></code></p>
 <div>
 <img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/java.png" valign="middle"><strong> Java.</strong>
 </div>
@@ -53,6 +53,10 @@ Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></stro
 
 <td valign="top">
 <p align=center><code><strong>FRAMEWORKS WEB:</strong></code></p>
+<div>
+<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/vuejs.png" valign="middle"><strong> VueJS.</strong>
+</div>
+<div>
 <div>
 <img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/nodejs.png" valign="middle"><strong> NodeJS.</strong>
 </div>
