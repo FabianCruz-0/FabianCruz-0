@@ -72,12 +72,9 @@ Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></stro
 
 
 <div align= center><h2><i>
-
-
-```diff
-@@ Keeping the world connected. @@
-```
-
+<p style="color:Purple;">
+KEEPING THE WORLD CONNECTED.
+</p>
 </i>
 </h2>
 </div>
