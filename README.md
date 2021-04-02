@@ -11,8 +11,7 @@ Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></stro
 <br>
 </div>
 
-
-<div>
+<div style="width:100%;">
 <table style="width:100%;">
 <tr>
 <td style="width:2000px;">
@@ -28,7 +27,7 @@ Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></stro
 </div>
 </td>
 
-<td style="width:2000px; vertical-align:top;">
+<td style="width:2000px; vertical-align:top !important;">
 <p align=center><code><strong>BASES DE DATOS:</strong></code></p>
 <div>
 <img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/mysql.png" style="vertical-align: middle;"><strong> MySQL.</strong>
@@ -71,9 +70,7 @@ Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></stro
 </table>
 </div>
 
-
 <!-- ![Vistas del perfil](https://gpvc.arturio.dev/fabiancruz-0) -->
-
 
 <!--
 **FabianCruz-0/FabianCruz-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
