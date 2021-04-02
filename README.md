@@ -11,8 +11,8 @@ Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></stro
 <br>
 </div>
 
-<div  align=center>
-<table >
+<div  align=center width="100%">
+<table width="100%">
 <tr>
 <td  valign="top">
 <p align=center><code><strong>LEJGUAJES DE PROGRAMACIÓN:</strong></code></p>
