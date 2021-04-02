@@ -68,14 +68,14 @@ Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></stro
 </table>
 </div>
 
-<p align=justify>A su vez estoy aprendiendo otras tecnologías. la cuestión es siempre aprender y mejorar.</p>
+<p align=justify>A su vez estoy aprendiendo otras tecnologías fuera de esa tabla. La cuestión es siempre aprender, practicar y mejorar.</p>
 
 
 <div align= center><h2><i>
 
 
 ```diff
-@@ Keeping the world connected.@@
+@@ Keeping the world connected. @@
 ```
 
 </i>
