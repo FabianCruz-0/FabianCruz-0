@@ -7,9 +7,6 @@
 
 <div align= "justify">
 Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></strong>, interesado en el desarrollo de software en general <code><strong>Full Stack</strong></code>.
-
-📍 <code><strong>Nuevo León, México.</strong></code>
-<br>
 <br>
 </div>
 
@@ -77,24 +74,7 @@ Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></stro
 @@ KEEPING THE WORLD CONNECTED. @@
 ```
 
-✨ ✨
 </i>
 </h2>
 </div>
-
-<!-- ![Vistas del perfil](https://gpvc.arturio.dev/fabiancruz-0) -->
-
-<!--
-**FabianCruz-0/FabianCruz-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---!>
+ 
