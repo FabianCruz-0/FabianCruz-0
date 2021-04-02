@@ -17,13 +17,13 @@ Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></stro
 <td  valign="top">
 <p align=center><code><strong>LEJGUAJES DE PROGRAMACIÓN:</strong></code></p>
 <div>
-<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/java.png" style="vertical-align: middle;"><strong> Java.</strong>
+<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/java.png" valign="middle"><strong> Java.</strong>
 </div>
 <div>
-<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/JS.png" style="vertical-align: middle;"><strong> JavaScript.</strong>
+<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/JS.png" valign="middle"><strong> JavaScript.</strong>
 </div>
 <div>
-<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/PHP.png" style="vertical-align: middle;"><strong> PHP.</strong>
+<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/PHP.png" valign="middle"><strong> PHP.</strong>
 </div>
 </td>
 
@@ -33,32 +33,32 @@ Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></stro
 <img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/mysql.png" valign="middle"><strong> MySQL.</strong>
 </div>
 <div>
-<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/sqlserver.png" style="vertical-align: middle;"><strong> SQLServer.</strong>
+<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/sqlserver.png" valign="middle"><strong> SQLServer.</strong>
 </div>
 </td>
 <td valign="top">
 <p align=center><code><strong>DESARROLLO WEB:</strong></code></p>
 <div>
-<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/java.png" style="vertical-align: middle;"><strong> HTML.</strong>
+<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/java.png" valign="middle"><strong> HTML.</strong>
 </div>
 <div>
-<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/css.png" style="vertical-align: middle;"><strong> CSS.</strong>
+<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/css.png" valign="middle"><strong> CSS.</strong>
 </div>
 <div>
-<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/bootstrap.png" style="vertical-align: middle;"><strong> Bootstrap.</strong>
+<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/bootstrap.png" valign="middle"><strong> Bootstrap.</strong>
 </div>
 <div>
-<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/jquery.png" style="vertical-align: middle;"><strong> JQuery.</strong>
+<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/jquery.png" valign="middle"><strong> JQuery.</strong>
 </div>
 </td>
 
 <td valign="top">
 <p align=center><code><strong>FRAMEWORKS WEB:</strong></code></p>
 <div>
-<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/nodejs.png" style="vertical-align: middle;"><strong> NojdeJS.</strong>
+<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/nodejs.png" valign="middle"><strong> NojdeJS.</strong>
 </div>
 <div>
-<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/laravel.png" style="vertical-align: middle;"><strong> Laravel.</strong>
+<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/laravel.png" valign="middle"><strong> Laravel.</strong>
 </div>
 </td>
 
