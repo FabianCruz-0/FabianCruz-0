@@ -1,5 +1,7 @@
-<p align="center" style="font-size:20vw;">¡Hola! 👋 Soy Fabián Cruz. </p>
+<center>
 
+# ¡Hola! 👋 Soy Fabián Cruz.
+</center>
 ![Fabián Cruz](http://fabiancruz.x10.mx/static/readme-perfil/banner.png)
 
 <!--
