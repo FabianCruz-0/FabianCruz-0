@@ -1,6 +1,6 @@
-<center>
+<div align= "center">
 <h1>¡Hola! 👋 Soy Fabián Cruz. </h1>
-</center>
+</div>
 
 ![Fabián Cruz](http://fabiancruz.x10.mx/static/readme-perfil/banner.png)
 
