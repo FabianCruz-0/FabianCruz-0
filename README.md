@@ -11,7 +11,7 @@ Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></stro
 <br>
 </div>
 
-<div >
+<div  align=center>
 <table >
 <tr>
 <td >
