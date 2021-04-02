@@ -54,7 +54,7 @@ Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></stro
 <td valign="top">
 <p align=center><code><strong>FRAMEWORKS WEB:</strong></code></p>
 <div>
-<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/nodejs.png" valign="middle"><strong> NojdeJS.</strong>
+<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/nodejs.png" valign="middle"><strong> NodeJS.</strong>
 </div>
 <div>
 <img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/laravel.png" valign="middle"><strong> Laravel.</strong>
