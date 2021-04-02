@@ -14,7 +14,7 @@ Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></stro
 <div  align=center>
 <table >
 <tr>
-<td  vlign="top">
+<td  valign="top">
 <p align=center><code><strong>LEJGUAJES DE PROGRAMACIÓN:</strong></code></p>
 <div>
 <img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/java.png" style="vertical-align: middle;"><strong> Java.</strong>
@@ -27,7 +27,7 @@ Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></stro
 </div>
 </td>
 
-<td vlign="top">
+<td valign="top">
 <p align=center><code><strong>BASES DE DATOS:</strong></code></p>
 <div>
 <img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/mysql.png" style="vertical-align: middle;"><strong> MySQL.</strong>
@@ -36,7 +36,7 @@ Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></stro
 <img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/sqlserver.png" style="vertical-align: middle;"><strong> SQLServer.</strong>
 </div>
 </td>
-<td vlign="top">
+<td valign="top">
 <p align=center><code><strong>DESARROLLO WEB:</strong></code></p>
 <div>
 <img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/java.png" style="vertical-align: middle;"><strong> HTML.</strong>
@@ -52,7 +52,7 @@ Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></stro
 </div>
 </td>
 
-<td vlign="top">
+<td valign="top">
 <p align=center><code><strong>FRAMEWORKS WEB:</strong></code></p>
 <div>
 <img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/nodejs.png" style="vertical-align: middle;"><strong> NojdeJS.</strong>
