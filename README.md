@@ -7,9 +7,9 @@
 
 <div align= "justify">
 Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></strong>, interesado en el desarrollo de software en general <code><strong>Full Stack</strong></code>.
-<br>
-</div>
 
+</div>
+<br>
 <div  align=center width="100%">
 <table width="100%">
 <tr>
