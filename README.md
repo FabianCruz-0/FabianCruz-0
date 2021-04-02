@@ -70,22 +70,14 @@ Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></stro
 
 <p align=justify>A su vez estoy aprendiendo otras tecnologías fuera de esa tabla. La cuestión es siempre aprender, practicar y mejorar.</p>
 
-<style>
-H1{color:Blue !important;}
-H2{color:DarkOrange !important;}
-p{color:Black !important;}
-</style>
-
-# Color Test Document
-
-## Second Heading
-
-This is a test to see how the colors work.
-c
 <div align= center><h2><i>
-<p style="color:Purple !important;">
-KEEPING THE WORLD CONNECTED.
-</p>
+
+
+```diff
+@@ KEEPING THE WORLD CONNECTED. @@
+```
+
+✨ ✨
 </i>
 </h2>
 </div>
