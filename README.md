@@ -30,7 +30,7 @@ Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></stro
 <td valign="top">
 <p align=center><code><strong>BASES DE DATOS:</strong></code></p>
 <div>
-<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/mysql.png" style="vertical-align: middle;"><strong> MySQL.</strong>
+<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/mysql.png" valign="middle"><strong> MySQL.</strong>
 </div>
 <div>
 <img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/sqlserver.png" style="vertical-align: middle;"><strong> SQLServer.</strong>
