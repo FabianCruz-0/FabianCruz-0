@@ -1,13 +1,15 @@
+![Fabián Cruz](http://fabiancruz.x10.mx/static/readme-perfil/banner.png)
+
 <div align= "center">
 <h1>¡Hola! 👋 Soy Fabián Cruz.</h1>
 </div>
 
-![Fabián Cruz](http://fabiancruz.x10.mx/static/readme-perfil/banner.png)
-
-📍 <code><strong>Nuevo León, México.</strong></code>
 
 <div align= "justify">
 Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></strong>, interesado en el desarrollo de software en general <code><strong>Full Stack</strong></code>.
+
+📍 <code><strong>Nuevo León, México.</strong></code>
+<br>
 <br>
 </div>
 
@@ -64,6 +66,17 @@ Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></stro
 
 </tr>
 </table>
+</div>
+
+<p align=justify>A su vez estoy aprendiendo otras tecnologías. la cuestión es siempre aprender y mejorar.</p>
+
+
+<div align= center><i>
+
+```diff
+@@ Keeping the world connected.@@
+```
+</i>
 </div>
 
 <!-- ![Vistas del perfil](https://gpvc.arturio.dev/fabiancruz-0) -->
