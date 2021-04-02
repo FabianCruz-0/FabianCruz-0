@@ -74,7 +74,7 @@ Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></stro
 <div align= center><i>
 
 ```diff
-@ Keeping the world connected.@
+ Keeping the world connected.
 ```
 </i>
 </div>
