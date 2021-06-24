@@ -5,7 +5,7 @@
 </div>
 
 
-<div align= "justify">
+<div align= "center">
 Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></strong>, interesado en el desarrollo de software en general <code><strong>Full Stack</strong></code>.
 
 </div>
@@ -69,7 +69,7 @@ Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></stro
 </table>
 </div>
 
-<p align=justify>A su vez estoy aprendiendo otras tecnologías fuera de esa tabla. La cuestión es siempre aprender, practicar y mejorar.</p>
+<p align="center">A su vez estoy aprendiendo otras tecnologías fuera de esa tabla. La cuestión es siempre aprender, practicar y mejorar.</p>
 
 <div align= center><h2><i>
 
