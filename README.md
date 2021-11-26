@@ -38,7 +38,7 @@ Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></stro
 <td valign="top">
 <p align=center><code><strong>DESARROLLO WEB:</strong></code></p>
 <div>
-<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/java.png" valign="middle"><strong> HTML.</strong>
+<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/html.png" valign="middle"><strong> HTML.</strong>
 </div>
 <div>
 <img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/css.png" valign="middle"><strong> CSS.</strong>
