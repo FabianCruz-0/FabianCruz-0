@@ -4,6 +4,7 @@
 <h1>¡Hello! 😸 I'm Fabián Cruz.</h1>
 I am a <i><strong>Full Stack</strong></i> Software Engineer based in Nuevo León, México (UTC-6). I love to work with a varierity of technologies, such as:
 </div>
+<br>
 <div  align=center width="100%">
 <table width="100%">
 <tr>
@@ -127,9 +128,9 @@ I am a <i><strong>Full Stack</strong></i> Software Engineer based in Nuevo León
 </table>
 </div>
 <hr>
-<h3>
+<h2>
 🎯 Courses & Certificates:
-</h3>
+</h2>
 
 > - &nbsp;&nbsp;&nbsp;&nbsp;<strong>Problem Solving (Basic)</strong> | <i>HackerRank</i> [🐸 View certificate](certs/FabianCruz_ProblemSolving_HackerRank.png).
 > - &nbsp;&nbsp;&nbsp;&nbsp;<strong>Java (Intermediate)</strong> | <i>NEORIS</i> [🐸 View certificate](certs/FabianCruz_Java_NEORIS.pdf).
@@ -138,8 +139,7 @@ I am a <i><strong>Full Stack</strong></i> Software Engineer based in Nuevo León
 > - &nbsp;&nbsp;&nbsp;&nbsp;<strong>SQL (Basic)</strong> | <i>HackerRank</i> [🐸 View certificate](certs/FabianCruz_SQL_HackerRank.png).
 > - &nbsp;&nbsp;&nbsp;&nbsp;<strong>2021 Space Apps Challenge</strong> | <i>NASA</i> [🐸 View certificate](certs/FabianCruz_SpaceApps_NASA.png).
 >
-> &nbsp;&nbsp;&nbsp;&nbsp;<strong>And more...</strong>
->
+> &nbsp;&nbsp;&nbsp;&nbsp;<strong>And more...</strong>\
 > &nbsp;&nbsp;&nbsp;&nbsp;📑 All of my certificates (<i>+10</i>) available on my [🦉 LinkedIn](https://www.linkedin.com/in/fabian-cruz-dev/) profile.
 
 <br>
