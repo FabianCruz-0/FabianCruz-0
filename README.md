@@ -1,8 +1,7 @@
 ![Fabián Cruz](style/imgs/FabianCruz_Banner.png)
 <div align= "center">
-<h2>¡Hello! 👋 I'm Fabián Cruz.</h2>
-</div>
-<div align= "center">
+<h1>¡Hello! 👋 I'm Fabián Cruz.</h1>
+
 I am a <i><strong>Full Stack</strong></i> Software Engineer based in Nuevo León, México (UTC-6). I love to work with a varierity of technologies, such as:
 
 </div>
@@ -145,9 +144,7 @@ I am a <i><strong>Full Stack</strong></i> Software Engineer based in Nuevo León
 
 <div align= center><h2 style="color:#8000ff"><i>
 
-
-<code style="color:#8000ff">KEEPING THE WORLD CONNECTED.</code>
-
+KEEPING THE WORLD CONNECTED.
 
 </i>
 </h2>
