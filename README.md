@@ -134,11 +134,12 @@ I am a <i><strong>Full Stack</strong></i> Software Engineer based in Nuevo León
 > - &nbsp;&nbsp;&nbsp;&nbsp;<strong>Problem Solving (Basic)</strong> | <i>HackerRank</i> [🐸 View certificate](certs/FabianCruz_ProblemSolving_HackerRank.png).
 > - &nbsp;&nbsp;&nbsp;&nbsp;<strong>Java (Intermediate)</strong> | <i>NEORIS</i> [🐸 View certificate](certs/FabianCruz_Java_NEORIS.pdf).
 > - &nbsp;&nbsp;&nbsp;&nbsp;<strong>Software Project Development Methodology</strong> | <i>NEORIS</i> [🐸 View certificate](certs/FabianCruz_MDPS_NEORIS.pdf).
-> - &nbsp;&nbsp;&nbsp;&nbsp;<strong>Secure Coding Practices</strong> | <i>NEORIS</i> [🐸 View certificate](certs/FabianCruz_MDPS_NEORIS.pdf).
-> - &nbsp;&nbsp;&nbsp;&nbsp;<strong>SQL (Basic)</strong> | <i>HackerRank</i> [🐸 View certificate](certs/FabianCruz_MDPS_NEORIS.pdf).
-> - &nbsp;&nbsp;&nbsp;&nbsp;<strong>2021 Space Apps Challenge</strong> | <i>NASA</i> [🐸 View certificate](certs/FabianCruz_MDPS_NEORIS.pdf).
+> - &nbsp;&nbsp;&nbsp;&nbsp;<strong>Secure Coding Practices</strong> | <i>NEORIS</i> [🐸 View certificate](certs/FabianCruz_SecureCodingPractices_NEORIS.pdf).
+> - &nbsp;&nbsp;&nbsp;&nbsp;<strong>SQL (Basic)</strong> | <i>HackerRank</i> [🐸 View certificate](certs/FabianCruz_SQL_HackerRank.png).
+> - &nbsp;&nbsp;&nbsp;&nbsp;<strong>2021 Space Apps Challenge</strong> | <i>NASA</i> [🐸 View certificate](certs/FabianCruz_SpaceApps_NASA.png).
 >
 > &nbsp;&nbsp;&nbsp;&nbsp;<strong>And more...</strong>
+>
 > &nbsp;&nbsp;&nbsp;&nbsp;📑 All of my certificates (<i>+10</i>) available on my [🦉 LinkedIn](https://www.linkedin.com/in/fabian-cruz-dev/) profile.
 
 <br>
