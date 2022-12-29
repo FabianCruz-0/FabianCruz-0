@@ -1,75 +1,138 @@
-![Fabián Cruz](http://fabiancruz.x10.mx/static/readme-perfil/banner.png)
-
+![Fabián Cruz](style/imgs/FabianCruz_Banner.png)
 <div align= "center">
-<h1>¡Hola! 👋 Soy Fabián Cruz.</h1>
+<h1>¡Hello! 👋 I'm Fabián Cruz.</h1>
 </div>
 
 
 <div align= "center">
-Soy un estudiante de <strong><i>Ingeniería en Tecnología de Software</i></strong>, interesado en el desarrollo de software en general <code><strong>Full Stack</strong></code>.
+I am a <i><strong>Full Stack</strong></i> Software Engineer based in Nuevo León, México (UTC-6). I love to work with a varierity of technologies, such as:
 
 </div>
 <br>
 <div  align=center width="100%">
 <table width="100%">
 <tr>
-<td  valign="top">
-<p align=center><code><strong>LENGUAJES DE PROGRAMACIÓN:</strong></code></p>
+<td  valign="top" width="25%">
+<p align=center><code><strong>PROGRAMMING LANGUAGUES:</strong></code></p>
+<ul>
+<li>
 <div>
-<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/java.png" valign="middle"><strong> Java.</strong>
+<img src="style/imgs/javascript.png" valign="middle"><strong> JavaScript.</strong>
 </div>
+
+<li>
 <div>
-<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/JS.png" valign="middle"><strong> JavaScript.</strong>
+<img src="style/imgs/java.png" valign="middle"><strong> Java.</strong>
 </div>
+
+<li>
 <div>
-<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/PHP.png" valign="middle"><strong> PHP.</strong>
+<img src="style/imgs/kotlin.png" valign="middle"><strong> Kotlin.</strong>
 </div>
+
+<li>
+<div>
+<img src="style/imgs/CSHARP.png" valign="middle"><strong> C#.</strong>
+</div>
+</ul>
 </td>
 
-<td valign="top">
-<p align=center><code><strong>BASES DE DATOS:</strong></code></p>
-<div>
-<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/mysql.png" valign="middle"><strong> MySQL.</strong>
-</div>
-<div>
-<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/sqlserver.png" valign="middle"><strong> SQLServer.</strong>
-</div>
+
+<td valign="top" style="padding: 0px 0px 0px 0px">
+<table width="100%;" style="margin: 0px 0px 0px 0px">
+<tr>
+<td valign="top" colspan="2" style="border:none;">
+<p align=center valign="top"><code><strong>TECHNOLOGIES:</strong></code></p>
 </td>
-<td valign="top">
-<p align=center><code><strong>DESARROLLO WEB:</strong></code></p>
+</tr>
+<tr>
+<td style="border:none;" width="50%">
+<ul>
+<li>
 <div>
-<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/html.png" valign="middle"><strong> HTML.</strong>
+<img src="style/imgs/html.png" valign="middle"><strong> HTML.</strong>
 </div>
+
+<li>
 <div>
-<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/css.png" valign="middle"><strong> CSS.</strong>
+<img src="style/imgs/css.png" valign="middle"><strong> CSS.</strong>
 </div>
+
+<li>
 <div>
-<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/bootstrap.png" valign="middle"><strong> Bootstrap.</strong>
+<img src="style/imgs/nodejs.png" valign="middle"><strong> NodeJS.</strong>
 </div>
+
+<li>
 <div>
-<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/jquery.png" valign="middle"><strong> JQuery.</strong>
+<img src="style/imgs/springboot.png" valign="middle"><strong> Spring Boot.</strong>
 </div>
+
+<li>
+<div>
+<img src="style/imgs/api.png" valign="middle"><strong> REST API'S.</strong>
+</div>
+
+</ul>
 </td>
 
-<td valign="top">
-<p align=center><code><strong>FRAMEWORKS WEB:</strong></code></p>
+<td style="border:none;" width="50%">
+<ul>
+<li>
 <div>
-<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/vuejs.png" valign="middle"><strong> VueJS.</strong>
+<img src="style/imgs/angular.png" valign="middle"><strong> Angular.</strong>
 </div>
+
+<li>
 <div>
-<div>
-<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/nodejs.png" valign="middle"><strong> NodeJS.</strong>
+<img src="style/imgs/bootstrap.png" valign="middle"><strong> Bootstrap.</strong>
 </div>
+
+<li>
 <div>
-<img src="http://fabiancruz.x10.mx/static/readme-perfil/icons/laravel.png" valign="middle"><strong> Laravel.</strong>
+<img src="style/imgs/jquery.png" valign="middle"><strong> JQuery.</strong>
 </div>
+
+<li>
+<div>
+<img src="style/imgs/GIT.png" valign="middle"><strong> Git / GitHub.</strong>
+</div>
+
+<li>
+<div>
+<img src="style/imgs/svn.png" valign="middle"><strong> SubVersion (SVN).</strong>
+</div>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+
+<td valign="top" width="25%">
+<p align=center><code><strong>DATABASES:</strong></code></p>
+<ul>
+
+<li>
+<div>
+<img src="style/imgs/mysql.png" valign="middle"><strong> MySQL.</strong>
+</div>
+<li>
+<div>
+<img src="style/imgs/sqlserver.png" valign="middle"><strong> SQLServer.</strong>
+</div>
+<li>
+<div>
+<img src="style/imgs/firebase.png" valign="middle"><strong> Firebase.</strong>
+</div>
+
+</ul>
 </td>
 
 </tr>
 </table>
 </div>
 
-<p align="center">A su vez estoy aprendiendo otras tecnologías fuera de esa tabla. La cuestión es siempre aprender, practicar y mejorar.</p>
+<p align="center">I am learning other technologies outside of that table. The purpose is always to learn, practice and <i><strong>improve</strong></i>.</p>
 
 <div align= center><h2><i>
 
