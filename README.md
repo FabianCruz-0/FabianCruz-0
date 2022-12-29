@@ -132,14 +132,25 @@ I am a <i><strong>Full Stack</strong></i> Software Engineer based in Nuevo León
 </table>
 </div>
 
+<br>
+
+<h3>
+🎯 Courses & Certificades:
+</h3>
+
+&nbsp;&nbsp;&nbsp;&nbsp; • <strong>Problem Solving (Basic)</strong> | <i>HackerRank</i> [🌐 View certificate](certs/FabianCruz_ProblemSolving_HackerRank.png).
+&nbsp;&nbsp;&nbsp;&nbsp; • <strong>Java (Intermediate)</strong> | <i>NEORIS</i> [🌐 View certificate](certs/FabianCruz_Java_NEORIS.pdf).
+&nbsp;&nbsp;&nbsp;&nbsp; • <strong>Software Project Development Methodology</strong> | <i>NEORIS</i> [🌐 View certificate](certs/FabianCruz_MDPS_NEORIS.pdf).
+
+<br>
+
 <p align="center">I am learning other technologies outside of that table. The purpose is always to learn, practice and <i><strong>improve</strong></i>.</p>
 
-<div align= center><h2><i>
+<div align= center><h2 style="color:#8000ff"><i>
 
 
-```diff
-@@ KEEPING THE WORLD CONNECTED. @@
-```
+<code style="color:#8000ff">KEEPING THE WORLD CONNECTED.</code>
+
 
 </i>
 </h2>
