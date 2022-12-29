@@ -32,7 +32,7 @@ I am a <i><strong>Full Stack</strong></i> Software Engineer based in Nuevo León
 
 <li>
 <div>
-<img src="style/imgs/CSHARP.png" valign="middle"><strong> C#.</strong>
+<img src="style/imgs/csharp.png" valign="middle"><strong> C#.</strong>
 </div>
 </ul>
 </td>
@@ -95,7 +95,7 @@ I am a <i><strong>Full Stack</strong></i> Software Engineer based in Nuevo León
 
 <li>
 <div>
-<img src="style/imgs/GIT.png" valign="middle"><strong> Git / GitHub.</strong>
+<img src="style/imgs/git.png" valign="middle"><strong> Git / GitHub.</strong>
 </div>
 
 <li>
