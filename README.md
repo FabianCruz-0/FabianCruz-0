@@ -1,9 +1,7 @@
 ![Fabián Cruz](style/imgs/FabianCruz_Banner.png)
 <div align= "center">
-<h1>¡Hello! 👋 I'm Fabián Cruz.</h1>
+<h2>¡Hello! 👋 I'm Fabián Cruz.</h2>
 </div>
-
-
 <div align= "center">
 I am a <i><strong>Full Stack</strong></i> Software Engineer based in Nuevo León, México (UTC-6). I love to work with a varierity of technologies, such as:
 
@@ -131,16 +129,15 @@ I am a <i><strong>Full Stack</strong></i> Software Engineer based in Nuevo León
 </tr>
 </table>
 </div>
-
-<br>
-
+<hr>
 <h3>
 🎯 Courses & Certificades:
 </h3>
 
-&nbsp;&nbsp;&nbsp;&nbsp; • <strong>Problem Solving (Basic)</strong> | <i>HackerRank</i> [🌐 View certificate](certs/FabianCruz_ProblemSolving_HackerRank.png).
-&nbsp;&nbsp;&nbsp;&nbsp; • <strong>Java (Intermediate)</strong> | <i>NEORIS</i> [🌐 View certificate](certs/FabianCruz_Java_NEORIS.pdf).
-&nbsp;&nbsp;&nbsp;&nbsp; • <strong>Software Project Development Methodology</strong> | <i>NEORIS</i> [🌐 View certificate](certs/FabianCruz_MDPS_NEORIS.pdf).
+- &nbsp;&nbsp;&nbsp;&nbsp;<strong>Problem Solving (Basic)</strong> | <i>HackerRank</i> [🌐 View certificate](certs/FabianCruz_ProblemSolving_HackerRank.png).
+- &nbsp;&nbsp;&nbsp;&nbsp;<strong>Java (Intermediate)</strong> | <i>NEORIS</i> [🌐 View certificate](certs/FabianCruz_Java_NEORIS.pdf).
+
+- &nbsp;&nbsp;&nbsp;&nbsp;<strong>Software Project Development Methodology</strong> | <i>NEORIS</i> [🌐 View certificate](certs/FabianCruz_MDPS_NEORIS.pdf).
 
 <br>
 
