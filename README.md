@@ -2,6 +2,26 @@
 
 <div align= "center">
 <h1>¡Hello! 😸 I'm Fabián Cruz.</h1>
+🌺 Take a look at my:
+<table>
+<tr>
+<td width="33%" align="center" valign="middle" height="100%">
+
+[🌌 Portfolio Page.](https://fabiancruz-0.github.io/)
+
+</td>
+<td width="33%" align="center" valign="middle" height="100%">
+
+[🔬 Computer Science Blog.](https://fabiancruz-0.github.io/ComputerScience-Blog/)
+
+</td>
+<td width="33%" align="center" valign="middle" height="100%">
+
+[🌐 LinkedIn Profile.](https://www.linkedin.com/in/fabian-cruz-dev/)
+
+</td>
+</tr>
+</table>
 I am a <i><strong>Full Stack</strong></i> Software Engineer based in Nuevo León, México (UTC-6). I love to work with a varierity of technologies, such as:
 </div>
 <br>
