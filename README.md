@@ -1,7 +1,7 @@
 ![Fabián Cruz](style/imgs/FabianCruz_Banner.png)
 
 <div align= "center">
-<h1>¡Hello! 😸 I'm Fabián Cruz.</h1>
+<h1>Hello! 😸 I'm Fabián Cruz.</h1>
 🌺 Take a look at my:
 <table>
 <tr>
